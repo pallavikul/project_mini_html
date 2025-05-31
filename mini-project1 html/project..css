@@ -1,0 +1,16 @@
+body{
+    background-color:rgb(225, 199, 160);
+}
+#head{
+      text-align:center;
+}
+#para{
+      text-align:center;
+}
+table,tr,td,th{
+      border:2px solid black;
+      border-collapse: collapse;
+}
+th{
+      text-decoration: underline;
+}
